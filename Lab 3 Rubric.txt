@@ -1,0 +1,8 @@
+LAB #3: STACK IMPLEMENTATION:
+Build a Stack that will pass the provided tests
+
+  1- Let’s use TDD to ensure that it works
+     https://gist.github.com/marioagarcia/342394a653c407176ba571ea55a36234
+  2- Must pass all tests
+  3- Must have all the functions described in the tests
+  4- Must be done with OOD (Object Oriented Design)
